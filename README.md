@@ -1,1 +1,1 @@
-# Photograpger-Portfolio-Template
+# Photographer-Portfolio-Template
